@@ -6,7 +6,7 @@ I often get asked "how should I get started with programming?".
 
 Most people who ask this question are on Windows 10, and there are some quirks to setting up a "proper" developer environment on Windows.
 
-I hate it when new people immediately jump into a programming language without learning version control and the command line: IMHO those two skills are prerequisites.
+I hate it when new people are told to jump into a programming language without learning version control and the command line: IMHO those two skills are prerequisites.
 
 ## guide structure
 
